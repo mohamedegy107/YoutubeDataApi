@@ -11,10 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.4
-  html: ^0.15.0
-  xml2json: ^5.3.3
-  collection: ^1.16.0
+  http:
+  html: ^0.15.4
+  xml2json: ^6.2.3
+  collection:
 
 dev_dependencies:
   flutter_test:
